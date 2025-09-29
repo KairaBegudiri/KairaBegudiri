@@ -1,4 +1,5 @@
-## Hi there 👋
+## KAYRA 👋
+Kendi halinde Fedora için bir şeyler yapan, Linux dağıtımı ve bağımsız kernel geliştiren bir geliştiriciyim
 
 <!--
 **KairaBegudiri/KairaBegudiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
