@@ -6,7 +6,7 @@ Kendi halinde Fedora için bir şeyler yapan, Linux dağıtımı ve bağımsız 
 
 <hr>
 ## QUNICS
-Qunics beni unix-benzeri işletim sistemi kernelimdir. Onu GNU + bash userlandi ile birleştirip "Qyzyl GNU/Qunics" ismini verdiğim işletim sistemini hayata geçirmek istiyorum.
+- Qunics benim unix-benzeri işletim sistemi kernelimdir. Onu GNU + bash userlandi ile birleştirip "Qyzyl GNU/Qunics" ismini verdiğim işletim sistemini hayata geçirmek istiyorum. Ancak bu bir hobi projemdir ve buna uzun mesailer harcıyor değilim.
 <img width="1600" height="650" alt="resim" src="https://github.com/user-attachments/assets/9ccf7661-1752-4986-9802-02a573e6ed3b" />
 
 
