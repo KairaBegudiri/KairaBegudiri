@@ -1,5 +1,14 @@
-## KAYRA 👋
+## KAYRA
 Kendi halinde Fedora için bir şeyler yapan, Linux dağıtımı ve bağımsız kernel geliştiren bir geliştiriciyim
+<hr>
+## GPL 
+- Özgür yazılım ve Copyleft ilkelerine bağlı biri olarak projelerimin hepsini GPL olarak lisanslarım.
+
+<hr>
+## QUNICS
+Qunics beni unix-benzeri işletim sistemi kernelimdir. Onu GNU + bash userlandi ile birleştirip "Qyzyl GNU/Qunics" ismini verdiğim işletim sistemini hayata geçirmek istiyorum.
+<img width="1600" height="650" alt="resim" src="https://github.com/user-attachments/assets/9ccf7661-1752-4986-9802-02a573e6ed3b" />
+
 
 <!--
 **KairaBegudiri/KairaBegudiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
