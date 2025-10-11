@@ -14,9 +14,7 @@ Bu yüzden projelerimin tamamını **GPL** lisansı altında yayınlıyorum.
 ---
 
 ## 🖥️ Qunics
-- **Qunics**, benim Unix-benzeri işletim sistemi kernelimdir.  
-- Onu GNU + Bash userland ile birleştirip **Qyzyl GNU/Qunics** adını verdiğim bir işletim sistemi haline getirmek istiyorum.  
-- Bu proje tamamen bir **hobi çalışmasıdır**, uzun mesailer harcamıyorum ama tutkuyla ilerletiyorum.  
+- **Qunics**, benim Unix-benzeri işletim sistemi hobi projemdir.
 
 <img width="1600" height="650" alt="Qunics" src="https://github.com/user-attachments/assets/9ccf7661-1752-4986-9802-02a573e6ed3b" />
 
