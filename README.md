@@ -13,7 +13,7 @@ Bu yüzden projelerimin tamamını **GPL** lisansı altında yayınlıyorum.
 
 ---
 
-## 🖥️ Qunics
+## 🖥️ [Qunics](https://github.com/LibreQyzyl/qunics)
 - **Qunics**, benim Unix-benzeri işletim sistemi hobi projemdir.
 
 <img width="1600" height="650" alt="Qunics" src="https://github.com/user-attachments/assets/9ccf7661-1752-4986-9802-02a573e6ed3b" />
