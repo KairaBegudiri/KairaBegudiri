@@ -7,7 +7,7 @@ Kendince projeler geliştirip paylaşan, gündelik hayatında **Fedora Linux** v
 
 ---
 
-## 📜 GPL ve Özgür Yazılım
+## 📜 [GPL ve Özgür Yazılım](https://www.gnu.org/licenses/gpl-3.0.html)
 Özgür yazılım ve **Copyleft** ilkelerine bağlıyım.  
 Bu yüzden projelerimin tamamını **GPL** lisansı altında yayınlıyorum.  
 
