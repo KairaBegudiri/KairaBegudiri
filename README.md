@@ -1,7 +1,7 @@
 #  **Kayra**
 
 Kendince projeler geliştirip paylaşan, gündelik hayatında **Fedora Linux** ve **GhostBSD** kullanan bir geliştiriciyim.  
-Şu anda üzerinde çalıştığım en büyük hobi projem, kendi işletim sistemi kernelim **Qunics**.
+Şu anda üzerinde çalıştığım en büyük hobi projem, kendi işletim sistemim **Qunics**.
 
 📫 İletişim: **info@qyzyl.xyz**
 
