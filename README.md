@@ -24,7 +24,7 @@ Maskotumun adı: **Anatinus** ✨
 
 ## 🪙 QYZYL
 - **Kızıl** olarak okunur.  
-- Türk dil ailesinde, Türkiye kolu hariç hemen hemen hepsinde *"Altın"* anlamına gelir.  
+- Türk dil ailesinde Kırmızı ve Altın için kullanılır.  
 - Bu kelimeyi hoş bulduğumdan dolayı, projelerimin çoğunda karşınıza çıkabilir.  
 
 ---
