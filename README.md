@@ -1,30 +1,24 @@
-#  **Kayra**
+# Kayra - OSDev/Maintainer 
 
-Kendince projeler geliştirip paylaşan, gündelik hayatında **Fedora Linux** ve **GhostBSD** kullanan bir geliştiriciyim.  
-Şu anda üzerinde çalıştığım en büyük hobi projem, kendi işletim sistemim **Qunics**.
+**Qunics** işletim sistemi geliştiricisi.  
+Proje ve yazılım çalışmalarımı **GPL** lisansı altında paylaşıyorum.
+Python ve C dillerinde projeler yapıyorum.
 
-📫 İletişim: **info@qyzyl.xyz**
-
----
-
-## 📜 [GPL ve Özgür Yazılım](https://www.gnu.org/licenses/gpl-3.0.html)
-Özgür yazılım ve **Copyleft** ilkelerine bağlıyım.  
-Bu yüzden projelerimin tamamını **GPL** lisansı altında yayınlıyorum.  
+📫 **İletişim:** [kayra@qyzyl.xyz](mailto:kayra@qyzyl.xyz)
 
 ---
 
-## 🖥️ [Qunics](https://github.com/LibreQyzyl/qunics)
-- **Qunics**, benim Unix-benzeri işletim sistemi hobi projemdir.
+## Projeler
 
-<img width="1600" height="650" alt="Qunics" src="https://github.com/user-attachments/assets/9ccf7661-1752-4986-9802-02a573e6ed3b" />
-
-Maskotumun adı: **Anatinus** ✨
+### [Qunics](https://github.com/TheQyzylProject/qunics)
+**Qunics** Unix-benzeri bir işletim sistemi projesidir.  
+Maskot: **Anatinus**
 
 ---
 
-## 🪙 QYZYL
-- **Kızıl** olarak okunur.  
-- Türk dil ailesinde Kırmızı ve Altın için kullanılır.  
-- Bu kelimeyi hoş bulduğumdan dolayı, projelerimin çoğunda karşınıza çıkabilir.  
+## QYZYL
+
+**Qyzyl** Türk dillerinde "Kırmızı" ve "Altın" anlamına gelir.  
+Projelerimde bu ismi sıkça kullanırım. Türk kültürüne, mitolojisine ve diline ilgim yüksek olduğumdan projelerimde atıflar görebilirsiniz.
 
 ---
