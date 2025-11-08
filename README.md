@@ -1,10 +1,13 @@
+Maintained by `Kayra Ela Begdili <kayra@qyzyl.xyz>`
+If you have any problems with a package distributed in this thread, please [**contact me**](mailto:kayra@qyzyl.xyz).
+
 # Kayra - OSDev/Maintainer 
 
 **Qunics** işletim sistemi geliştiricisi.  
 Proje ve yazılım çalışmalarımı **GPL** lisansı altında paylaşıyorum.
 Python ve C dillerinde projeler yapıyorum.
 
-📫 **İletişim:** [kayra@qyzyl.xyz](mailto:kayra@qyzyl.xyz)
+**İletişim:** [kayra@qyzyl.xyz](mailto:kayra@qyzyl.xyz)
 
 ---
 
