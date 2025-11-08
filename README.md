@@ -1,5 +1,5 @@
 Maintained by `Kayra Ela Begdili <kayra@qyzyl.xyz>`
-If you have any problems with a package distributed in this thread, please [**contact me**](mailto:kayra@qyzyl.xyz).
+<br>If you have any problems with a package distributed in this thread, please [**contact me**](mailto:kayra@qyzyl.xyz).
 
 # Kayra - OSDev/Maintainer 
 
