@@ -26,6 +26,6 @@ Projelerimde bu ismi sıkça kullanırım. Türk kültürüne, mitolojisine ve d
 ---
 
 ## RPM User Repository Package Management
-- Duyurulacak -
+\- Duyurulacak -
 
 ---
