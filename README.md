@@ -1,7 +1,7 @@
 Maintained by `Kayra Ela Begdili <kayra@qyzyl.xyz>`
 <br>If you have any problems with a package distributed in this thread, please [**contact me**](mailto:kayra@qyzyl.xyz).
 
-# Kayra - OSDev/Maintainer 
+# Kayra
 
 **Qunics** işletim sistemi geliştiricisi.  
 Proje ve yazılım çalışmalarımı **GPL** lisansı altında paylaşıyorum.
@@ -15,7 +15,6 @@ Python ve C dillerinde projeler yapıyorum.
 
 ### [Qunics](https://github.com/TheQyzylProject/qunics)
 **Qunics** Unix-benzeri bir işletim sistemi projesidir.  
-Maskot: **Anatinus**
 
 ---
 
@@ -23,5 +22,10 @@ Maskot: **Anatinus**
 
 **Qyzyl** Türk dillerinde "Kırmızı" ve "Altın" anlamına gelir.  
 Projelerimde bu ismi sıkça kullanırım. Türk kültürüne, mitolojisine ve diline ilgim yüksek olduğumdan projelerimde atıflar görebilirsiniz.
+
+---
+
+## RPM User Repository Package Management
+- Duyurulacak -
 
 ---
