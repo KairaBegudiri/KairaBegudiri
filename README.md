@@ -1,5 +1,4 @@
-Maintained by `Kayra Ela Begdili <kayra@qyzyl.xyz>`
-<br>If you have any problems with a package distributed in this thread, please [**contact me**](mailto:kayra@qyzyl.xyz).
+`Kayra Ela Begdili <kayra@qyzyl.xyz>`
 
 # Kayra
 
@@ -7,14 +6,14 @@ Maintained by `Kayra Ela Begdili <kayra@qyzyl.xyz>`
 Proje ve yazılım çalışmalarımı **GPL** lisansı altında paylaşıyorum.
 Python ve C dillerinde projeler yapıyorum.
 
-**İletişim:** [kayra@qyzyl.xyz](mailto:kayra@qyzyl.xyz)
+**İletişim:** [kayra@qyzyl.xyz](mailto:devkayra@proton.me)
 
 ---
 
 ## Projeler
 
 ### [Qunics](https://github.com/TheQyzylProject/qunics)
-**Qunics** Unix-benzeri bir işletim sistemi projesidir.  
+**Qunics** Unix-benzeri bir işletim sistemi projesidir.
 
 ---
 
@@ -25,7 +24,5 @@ Projelerimde bu ismi sıkça kullanırım. Türk kültürüne, mitolojisine ve d
 
 ---
 
-## RPM User Repository Package Management
-\- Duyurulacak -
-
----
+## OpenLapis
+Türk açık kaynak ve *nix platformu.
