@@ -22,7 +22,7 @@ Python ve C dillerinde projeler yapıyorum.
 **Qyzyl** Türk dillerinde "Kırmızı" ve "Altın" anlamına gelir.  
 Projelerimde bu ismi sıkça kullanırım. Türk kültürüne, mitolojisine ve diline ilgim yüksek olduğumdan projelerimde atıflar görebilirsiniz.
 
-Url: [https://www.qyzyl.xyz]()
+Url: [Qyzyl Web](https://www.qyzyl.xyz)
 
 ---
 
