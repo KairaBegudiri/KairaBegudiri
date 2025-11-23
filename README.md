@@ -22,7 +22,10 @@ Python ve C dillerinde projeler yapıyorum.
 **Qyzyl** Türk dillerinde "Kırmızı" ve "Altın" anlamına gelir.  
 Projelerimde bu ismi sıkça kullanırım. Türk kültürüne, mitolojisine ve diline ilgim yüksek olduğumdan projelerimde atıflar görebilirsiniz.
 
+Url: [https://www.qyzyl.xyz]()
+
 ---
 
 ## OpenLapis
 Türk açık kaynak ve *nix platformu.
+Url: [OpenLapisOrg!](https://www.openlapis.org)
