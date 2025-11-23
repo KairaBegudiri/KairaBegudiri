@@ -28,4 +28,5 @@ Url: [Qyzyl Web](https://www.qyzyl.xyz)
 
 ## OpenLapis
 Türk açık kaynak ve *nix platformu.
+
 Url: [OpenLapisOrg!](https://www.openlapis.org)
