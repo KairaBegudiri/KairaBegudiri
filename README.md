@@ -10,22 +10,6 @@ Python ve C dillerinde projeler yapıyorum.
 
 ---
 
-## Projeler
-
-### [Qunics](https://github.com/TheQyzylProject/qunics)
-**Qunics** Unix-benzeri bir işletim sistemi projesidir.
-
----
-
-## QYZYL
-
-**Qyzyl** Türk dillerinde "Kırmızı" ve "Altın" anlamına gelir.  
-Projelerimde bu ismi sıkça kullanırım. Türk kültürüne, mitolojisine ve diline ilgim yüksek olduğumdan projelerimde atıflar görebilirsiniz.
-
-Url: [Qyzyl Web](https://www.qyzyl.xyz)
-
----
-
 ## OpenLapis
 Türk açık kaynak ve *nix platformu.
 
