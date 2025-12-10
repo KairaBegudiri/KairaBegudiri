@@ -6,7 +6,7 @@
 Proje ve yazılım çalışmalarımı **GPL** lisansı altında paylaşıyorum.
 Python ve C dillerinde projeler yapıyorum.
 
-**İletişim:** [kayra@qyzyl.xyz](mailto:devkayra@proton.me)
+**İletişim:** [devkayra@proton.me](mailto:devkayra@proton.me)
 
 ---
 
